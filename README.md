@@ -200,4 +200,3 @@ SELECT * FROM customers FORCE INDEX (idx_name) WHERE name = 'John Doe';
 - Periodically **rebuild/reorganize** indexes in large databases.
 
 ---
-# training_day11-New-Concepts-SQL
